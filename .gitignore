@@ -1,0 +1,59 @@
+# Project exclude paths
+/.gradle/
+/Problems/A capital letter or a digit/out/
+/Problems/A capital letter or a digit/out/production/classes/
+/Problems/Check the numbers/out/
+/Problems/Check the numbers/out/production/classes/
+/Problems/Check the order/out/
+/Problems/Check the order/out/production/classes/
+/Problems/Count the numbers/out/
+/Problems/Count the numbers/out/production/classes/
+/Problems/Counting/out/
+/Problems/Counting/out/production/classes/
+/Problems/Cyclically shifting elements/out/
+/Problems/Cyclically shifting elements/out/production/classes/
+/Problems/Digits or not/out/
+/Problems/Digits or not/out/production/classes/
+/Problems/Find the max/out/
+/Problems/Find the max/out/production/classes/
+/Problems/Fizz Buzz/out/
+/Problems/Fizz Buzz/out/production/classes/
+/Problems/Individual taxes/out/
+/Problems/Individual taxes/out/production/classes/
+/Problems/Is it here?/out/
+/Problems/Is it here?/out/production/classes/
+/Problems/Just checking/out/
+/Problems/Just checking/out/production/classes/
+/Problems/Letters/out/
+/Problems/Letters/out/production/classes/
+/Problems/Max values of integer types/out/
+/Problems/Max values of integer types/out/production/classes/
+/Problems/Most common/out/
+/Problems/Most common/out/production/classes/
+/Problems/Range multiplication/out/
+/Problems/Range multiplication/out/production/classes/
+/Problems/Right Rotation/out/
+/Problems/Right Rotation/out/production/classes/
+/Problems/Sequence/out/
+/Problems/Sequence/out/production/classes/
+/Problems/The longest sequence/out/
+/Problems/The longest sequence/out/production/classes/
+/Problems/The maximum pairwise product/out/
+/Problems/The maximum pairwise product/out/production/classes/
+/Problems/The minimum value of N numbers/out/
+/Problems/The minimum value of N numbers/out/production/classes/
+/Problems/The product of numbers from a to b/out/
+/Problems/The product of numbers from a to b/out/production/classes/
+/Problems/The roots of equation/out/
+/Problems/The roots of equation/out/production/classes/
+/Problems/The sum of integers from a to b/out/
+/Problems/The sum of integers from a to b/out/production/classes/
+/Problems/The sum of N numbers/out/
+/Problems/The sum of N numbers/out/production/classes/
+/Problems/Triples/out/
+/Problems/Triples/out/production/classes/
+/Problems/Vowels/out/
+/Problems/Vowels/out/production/classes/
+/Simple Search Engine/task/build/
+/Simple Search Engine/task/out/
+/Simple Search Engine/task/out/production/classes/
