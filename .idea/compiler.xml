@@ -6,8 +6,12 @@
       <module name="Problems-_Not__predicate_test" target="1.8" />
       <module name="Problems-A_capital_letter_or_a_digit_main" target="1.8" />
       <module name="Problems-A_capital_letter_or_a_digit_test" target="1.8" />
+      <module name="Problems-A_small_version_of_the_Battleship_game_main" target="1.8" />
+      <module name="Problems-A_small_version_of_the_Battleship_game_test" target="1.8" />
       <module name="Problems-Application_as_a_class_main" target="1.8" />
       <module name="Problems-Application_as_a_class_test" target="1.8" />
+      <module name="Problems-Beyond_the_word_main" target="1.8" />
+      <module name="Problems-Beyond_the_word_test" target="1.8" />
       <module name="Problems-Board_game_basics__Game_main" target="1.8" />
       <module name="Problems-Board_game_basics__Game_test" target="1.8" />
       <module name="Problems-Board_game_basics__Player_main" target="1.8" />
@@ -34,6 +38,8 @@
       <module name="Problems-Digits_or_not_test" target="1.8" />
       <module name="Problems-Find_the_max_main" target="1.8" />
       <module name="Problems-Find_the_max_test" target="1.8" />
+      <module name="Problems-First_digit_main" target="1.8" />
+      <module name="Problems-First_digit_test" target="1.8" />
       <module name="Problems-First_predicate_main" target="1.8" />
       <module name="Problems-First_predicate_test" target="1.8" />
       <module name="Problems-Fix_me_main" target="1.8" />
@@ -46,6 +52,8 @@
       <module name="Problems-Function_composition_test" target="1.8" />
       <module name="Problems-Function_generator_main" target="1.8" />
       <module name="Problems-Function_generator_test" target="1.8" />
+      <module name="Problems-Getting_letters_from_the_Alphabet_main" target="1.8" />
+      <module name="Problems-Getting_letters_from_the_Alphabet_test" target="1.8" />
       <module name="Problems-Individual_taxes_main" target="1.8" />
       <module name="Problems-Individual_taxes_test" target="1.8" />
       <module name="Problems-Initializing_an_array_main" target="1.8" />
@@ -98,6 +106,8 @@
       <module name="Problems-The_sum_of_N_numbers_test" target="1.8" />
       <module name="Problems-Triples_main" target="1.8" />
       <module name="Problems-Triples_test" target="1.8" />
+      <module name="Problems-Unique_characters_main" target="1.8" />
+      <module name="Problems-Unique_characters_test" target="1.8" />
       <module name="Problems-Volume_of_a_cube_main" target="1.8" />
       <module name="Problems-Volume_of_a_cube_test" target="1.8" />
       <module name="Problems-Vowels_main" target="1.8" />

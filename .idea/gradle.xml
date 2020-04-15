@@ -13,7 +13,9 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Problems/&quot;Not&quot; predicate" />
             <option value="$PROJECT_DIR$/Problems/A capital letter or a digit" />
+            <option value="$PROJECT_DIR$/Problems/A small version of the Battleship game" />
             <option value="$PROJECT_DIR$/Problems/Application as a class" />
+            <option value="$PROJECT_DIR$/Problems/Beyond the word" />
             <option value="$PROJECT_DIR$/Problems/Board game basics  Game" />
             <option value="$PROJECT_DIR$/Problems/Board game basics  Player" />
             <option value="$PROJECT_DIR$/Problems/Car" />
@@ -27,12 +29,14 @@
             <option value="$PROJECT_DIR$/Problems/Cyclically shifting elements" />
             <option value="$PROJECT_DIR$/Problems/Digits or not" />
             <option value="$PROJECT_DIR$/Problems/Find the max" />
+            <option value="$PROJECT_DIR$/Problems/First digit" />
             <option value="$PROJECT_DIR$/Problems/First predicate" />
             <option value="$PROJECT_DIR$/Problems/Fix me" />
             <option value="$PROJECT_DIR$/Problems/Fizz Buzz" />
             <option value="$PROJECT_DIR$/Problems/Function composition" />
             <option value="$PROJECT_DIR$/Problems/Function composition (1)" />
             <option value="$PROJECT_DIR$/Problems/Function generator" />
+            <option value="$PROJECT_DIR$/Problems/Getting letters from the Alphabet" />
             <option value="$PROJECT_DIR$/Problems/Individual taxes" />
             <option value="$PROJECT_DIR$/Problems/Initializing an array" />
             <option value="$PROJECT_DIR$/Problems/Initializing an array of characters" />
@@ -59,6 +63,7 @@
             <option value="$PROJECT_DIR$/Problems/The sum of N numbers" />
             <option value="$PROJECT_DIR$/Problems/The sum of integers from a to b" />
             <option value="$PROJECT_DIR$/Problems/Triples" />
+            <option value="$PROJECT_DIR$/Problems/Unique characters" />
             <option value="$PROJECT_DIR$/Problems/Volume of a cube" />
             <option value="$PROJECT_DIR$/Problems/Vowels" />
             <option value="$PROJECT_DIR$/Simple Search Engine/task" />
