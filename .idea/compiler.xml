@@ -26,16 +26,22 @@
       <module name="Problems-Companion_test" target="1.8" />
       <module name="Problems-Compare_Latin_letters_main" target="1.8" />
       <module name="Problems-Compare_Latin_letters_test" target="1.8" />
+      <module name="Problems-Compression_algorithm_main" target="1.8" />
+      <module name="Problems-Compression_algorithm_test" target="1.8" />
       <module name="Problems-Continuation-Passing_Style_main" target="1.8" />
       <module name="Problems-Continuation-Passing_Style_test" target="1.8" />
       <module name="Problems-Count_the_numbers_main" target="1.8" />
       <module name="Problems-Count_the_numbers_test" target="1.8" />
       <module name="Problems-Counting_main" target="1.8" />
       <module name="Problems-Counting_test" target="1.8" />
+      <module name="Problems-Create_a_euphonious_word_main" target="1.8" />
+      <module name="Problems-Create_a_euphonious_word_test" target="1.8" />
       <module name="Problems-Cyclically_shifting_elements_main" target="1.8" />
       <module name="Problems-Cyclically_shifting_elements_test" target="1.8" />
       <module name="Problems-Digits_or_not_main" target="1.8" />
       <module name="Problems-Digits_or_not_test" target="1.8" />
+      <module name="Problems-Find_the_first_occurrence_of_the_word__the__main" target="1.8" />
+      <module name="Problems-Find_the_first_occurrence_of_the_word__the__test" target="1.8" />
       <module name="Problems-Find_the_max_main" target="1.8" />
       <module name="Problems-Find_the_max_test" target="1.8" />
       <module name="Problems-First_digit_main" target="1.8" />
@@ -70,14 +76,22 @@
       <module name="Problems-Just_checking_test" target="1.8" />
       <module name="Problems-Letters_main" target="1.8" />
       <module name="Problems-Letters_test" target="1.8" />
+      <module name="Problems-Lucky_number_main" target="1.8" />
+      <module name="Problems-Lucky_number_test" target="1.8" />
       <module name="Problems-Max_main" target="1.8" />
       <module name="Problems-Max_test" target="1.8" />
       <module name="Problems-Max_values_of_integer_types_main" target="1.8" />
       <module name="Problems-Max_values_of_integer_types_test" target="1.8" />
       <module name="Problems-Most_common_main" target="1.8" />
       <module name="Problems-Most_common_test" target="1.8" />
+      <module name="Problems-Number_of_occurrences_main" target="1.8" />
+      <module name="Problems-Number_of_occurrences_test" target="1.8" />
+      <module name="Problems-Palindrome_main" target="1.8" />
+      <module name="Problems-Palindrome_test" target="1.8" />
       <module name="Problems-Patient_needs_a_doctor_main" target="1.8" />
       <module name="Problems-Patient_needs_a_doctor_test" target="1.8" />
+      <module name="Problems-Piece_of_alphabet_main" target="1.8" />
+      <module name="Problems-Piece_of_alphabet_test" target="1.8" />
       <module name="Problems-Polynomial_main" target="1.8" />
       <module name="Problems-Polynomial_test" target="1.8" />
       <module name="Problems-Range_multiplication_main" target="1.8" />
@@ -92,10 +106,16 @@
       <module name="Problems-Swap_test" target="1.8" />
       <module name="Problems-The_longest_sequence_main" target="1.8" />
       <module name="Problems-The_longest_sequence_test" target="1.8" />
+      <module name="Problems-The_longest_word_main" target="1.8" />
+      <module name="Problems-The_longest_word_test" target="1.8" />
+      <module name="Problems-The_lucky_ticket_main" target="1.8" />
+      <module name="Problems-The_lucky_ticket_test" target="1.8" />
       <module name="Problems-The_maximum_pairwise_product_main" target="1.8" />
       <module name="Problems-The_maximum_pairwise_product_test" target="1.8" />
       <module name="Problems-The_minimum_value_of_N_numbers_main" target="1.8" />
       <module name="Problems-The_minimum_value_of_N_numbers_test" target="1.8" />
+      <module name="Problems-The_percentage_of_G_and_C_characters_main" target="1.8" />
+      <module name="Problems-The_percentage_of_G_and_C_characters_test" target="1.8" />
       <module name="Problems-The_product_of_numbers_from_a_to_b_main" target="1.8" />
       <module name="Problems-The_product_of_numbers_from_a_to_b_test" target="1.8" />
       <module name="Problems-The_roots_of_equation_main" target="1.8" />
@@ -112,6 +132,8 @@
       <module name="Problems-Volume_of_a_cube_test" target="1.8" />
       <module name="Problems-Vowels_main" target="1.8" />
       <module name="Problems-Vowels_test" target="1.8" />
+      <module name="Simple_Search_Engine-Problems-_Not__predicate_main" target="1.8" />
+      <module name="Simple_Search_Engine-Problems-_Not__predicate_test" target="1.8" />
       <module name="Simple_Search_Engine-task_main" target="1.8" />
       <module name="Simple_Search_Engine-task_test" target="1.8" />
       <module name="util_main" target="1.8" />
